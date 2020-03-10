@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Iniciar Sesión</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+    <string name="hintCorreo">Correo Electrónico</string>
+    <string name="hintContrasenia">Contraseña</string>
+    <string name="strForgetPwd">¿Olvidaste tu contraseña?</string>
+</resources>
