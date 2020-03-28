@@ -4,4 +4,5 @@
     <string name="hintCorreo">Correo Electrónico</string>
     <string name="hintContrasenia">Contraseña</string>
     <string name="strForgetPwd">¿Olvidaste tu contraseña?</string>
+    <string name="itmUsuarios">Usuarios</string>
 </resources>
